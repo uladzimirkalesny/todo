@@ -117,7 +117,7 @@
         <jackson.version>2.11.1</jackson.version>
         <webjars.version>0.32</webjars.version>
         <spring-framework.version>5.0.3.RELEASE</spring-framework.version>
-        <spring-data-jpa>1.11.4.RELEASE</spring-data-jpa>
+        <spring-data-jpa>1.11.23.RELEASE</spring-data-jpa>
         <hibernate-jpa.version>1.0.0.Final</hibernate-jpa.version>
         <hibernate.version>4.3.11.Final</hibernate.version>
         <h2.version>1.4.197</h2.version>
