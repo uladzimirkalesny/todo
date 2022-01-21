@@ -120,7 +120,7 @@
         <spring-data-jpa>1.11.4.RELEASE</spring-data-jpa>
         <hibernate-jpa.version>1.0.0.Final</hibernate-jpa.version>
         <hibernate.version>4.3.11.Final</hibernate.version>
-        <h2.version>1.4.197</h2.version>
+        <h2.version>2.1.210</h2.version>
         <slf4j.version>1.7.25</slf4j.version>
         <logback.version>1.2.3</logback.version>
     </properties>
